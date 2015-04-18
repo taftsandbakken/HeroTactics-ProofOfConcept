@@ -1,0 +1,6 @@
+		To Do:
+
+-scratch this item from list
+-put check on checklist
+
+-Set up C++, SDL, and OpenGL on computers, figure it out, oh yeah

@@ -1,0 +1,82 @@
+h1{
+	/*color: #61c419;*/
+	text-decoration:underline;
+	font-family: Helveitca Neue, Helvetica, Arial, sans-serif;
+	font-weight: lighter;
+	text-align:center;
+	font-size: 28px;
+}
+
+
+#totalDiv{
+	width:1204px;
+	height:600px;
+	margin:0 auto;
+}
+
+#titleDiv{
+	width:898px;
+	height:30px;
+	text-align: center;
+}
+
+#topMenuDiv{
+	width:1202px;
+	height:36px;
+	border:1px solid #000000;
+	margin-bottom:5px;
+	margin-top:3px;
+}
+
+#topMenuDiv > button
+{
+	/*font-weight:bold;*/
+	height:36px;
+	width:110px;
+	float:left;
+	font-weight:none;
+}
+
+#sideMenuDiv{
+	width:206px;
+	height:608px;
+	border:1px solid #000000;
+	position:relative;
+	float:right;
+}
+
+#statsDiv{
+	width:202px;
+	height:376px;
+	border:1px solid #000000;
+	margin:0 auto;
+}
+
+#otherDiv{
+	width:202px;
+	height:226px;
+	border:1px solid #000000;
+	margin:0 auto;
+}
+
+#canvas{
+	/*width:684px;
+	height:532px;
+	border:1px solid #000000;
+	display:inline-block;*/
+}
+
+#canvas > div{
+	/*height: 36px;
+	width: 36px;
+	position: relative;
+	float: left;
+	border:1px solid #333333;
+	background-color:tan;*/
+}
+
+
+
+.hidden{
+	display:none;
+}
